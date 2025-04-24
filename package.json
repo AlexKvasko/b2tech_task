@@ -1,0 +1,18 @@
+{
+  "name": "B2Tech",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1",
+    "prettier": "^3.3.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "zod": "^3.24.3"
+  }
+}
